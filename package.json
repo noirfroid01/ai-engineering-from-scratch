@@ -9,7 +9,14 @@
   "devDependencies": {
     "@shikijs/langs": "4.5.0",
     "@shikijs/themes": "4.5.0",
+    "@types/node": "^26.6.6",
     "pagefind": "1.5.2",
-    "shiki": "4.5.0"
-  }
+    "shiki": "4.5.0",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "@google/genai": "^3.6.1"
+  },
+  "type": "module"
 }
